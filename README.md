@@ -1,9 +1,5 @@
 # scientific-calculator
 
-Sure! Here's a description for a scientific calculator written in HTML, CSS, and JavaScript that you can add to GitHub:
-
-*Scientific Calculator*
-
 This is a web-based scientific calculator designed to perform a wide range of mathematical calculations with ease. It provides a user-friendly interface and supports various scientific functions and operations. The calculator is built using HTML, CSS, and JavaScript, making it highly accessible and compatible across different web browsers and devices.
 
 *Features:*
