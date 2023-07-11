@@ -8,9 +8,7 @@ This is a web-based scientific calculator designed to perform a wide range of ma
 
 2. *Responsive Design:* The calculator is designed with a responsive layout, ensuring optimal display and usability on various screen sizes, including desktops, laptops, tablets, and mobile devices. It adjusts dynamically to fit the available screen space, providing a seamless experience across different platforms.
 
-3. *Memory Functions:* The calculator includes memory functionality, allowing users to store and recall previous results or intermediate values during complex calculations. The memory functions include storing values, recalling stored values, and clearing the memory when necessary.
+3. *Clear and Backspace:* Users can easily correct mistakes or clear the calculator's input with the clear and backspace buttons. The clear button resets the calculator to its initial state, while the backspace button removes the last entered character, enabling quick and efficient input modifications.
 
-4. *Clear and Backspace:* Users can easily correct mistakes or clear the calculator's input with the clear and backspace buttons. The clear button resets the calculator to its initial state, while the backspace button removes the last entered character, enabling quick and efficient input modifications.
-
-5. *Error Handling:* The calculator incorporates error handling mechanisms to ensure accurate calculations. It detects and handles common errors such as division by zero or invalid input, providing informative messages to assist users in identifying and correcting mistakes.
+4. *Error Handling:* The calculator incorporates error handling mechanisms to ensure accurate calculations. It detects and handles common errors such as division by zero or invalid input, providing informative messages to assist users in identifying and correcting mistakes.
 
